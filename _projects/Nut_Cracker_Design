@@ -11,8 +11,8 @@ Making the assumption that the force would be applied at the very end of the han
 and all forces are point forces, I calculated the distance ratio:
   222.18kg * g * 2 in = 32kg * g * x in, where x is 13.8 inches.
 
-This design is unusable due to its length. It becomes inconvienent to store and requires full strength from a person. Therefore,
-the assignment dictated we switch from human grip strength to a linear actuator. 
+This design is unusable due to its length. It becomes inconvienent to store and requires full strength from a person, and you would also need to 
+stretch your arms across the entire apparatus. Therefore, the assignment dictated we switch from human grip strength to a linear actuator. 
 
 The linear actuator I picked had a 2-inch stroke length and a output force of 330lbs.  (Mini industrial actuator on https://www.progressiveautomations.com/collections/linear-actuators)
 
