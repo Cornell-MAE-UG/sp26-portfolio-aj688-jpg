@@ -1,15 +1,17 @@
 ---
-layout: default
+layout: page
+title: Projects
+permalink: /projects/
 ---
 
-<h1>{{ page.title }}</h1>
+# Projects
 
-<p><img src="{{ page.image | relative_url }}" alt="{{ page.imagealt }}" class="project-image" /></p>
-
-{{ content }}
-
-<p><strong>Technologies Used</strong>: {{ page.technologies | join: ", " }}</p>
-
-<a href={{ "/projects/" | relative_url }} class="back-arrow">
-    <i class="bi bi-arrow-left-circle-fill"></i> Back to Projects
-</a>
+<ul>
+  {% for project in site.projects %}
+    <li>
+      <a href="{{ project.url | relative_url }}">
+        {{ project.title }}
+      </a>
+    </li>
+  {% endfor %}
+</ul>
