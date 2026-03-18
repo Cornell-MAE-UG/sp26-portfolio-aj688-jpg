@@ -1,6 +1,6 @@
 ---
 layout: project
-title:Nut cracker design
+title: Nut cracker design
 description: Just a spaceship that I designed
 
 ---
