@@ -1,8 +1,8 @@
 ---
 layout: project
 title: Nut Cracker Design
-permalink: https://cornell-mae-ug.github.io/sp26-portfolio-aj688-jpg/projects/nut_cracker_design/
----
+permalink: /projects/nut_cracker_design/
+------
 
 In ENGRD 2020, we were tasked with creating a nutcracker. 
 
