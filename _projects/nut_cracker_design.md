@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Nut Cracker Design
-permalink: /projects/nut_cracker_design/
+
 ---
 In ENGRD 2020, we were tasked with creating a nutcracker. 
 
