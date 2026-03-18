@@ -10,4 +10,4 @@ title: Aadya Jain
 
  
 My name is Aadya JAin, and I am a cool physics major.
-Take a look at <a href="/sp26-portfolio-aj688-jpg/projects/">Projects</a> and <a href="{{ "/cv/" | relative_url }}">CV</a>.
+Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/cv/" | relative_url }}">CV</a>.
