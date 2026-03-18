@@ -13,8 +13,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Aadya Jain
 description              : Aadya Jain - Projects and CV 
-baseurl                  : "" # Set this to your repo name 
-
+baseurl: "/sp26-portfolio-aj688-jpg"
 # Theme and Style
 theme: jekyll-theme-minimal
 color_scheme: light # light/default, dark, or aqua
