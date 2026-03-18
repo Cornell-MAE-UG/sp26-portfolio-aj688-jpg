@@ -1,5 +1,7 @@
 ---
-title: Nut Cracker Design
+layout: project
+title:Nut cracker design
+description: Just a spaceship that I designed
 
 ---
 In ENGRD 2020, we were tasked with creating a nutcracker. 
