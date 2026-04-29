@@ -43,7 +43,7 @@ For the location of maximum deflection, it appears to be where the nut is; the n
 
 For picking the material, under the constraints that it is mass-efficent and the deflection is at most 2% of the total length, we first find the elastic curve equation, assuming a total length of 7 inches, as reasoned before. We use the idea that the second derivative of y * E * I = internal moment. 
 
-![Math and FBD](https://github.com/Cornell-MAE-UG/sp26-portfolio-aj688-jpg/blob/main/assets/images/IMG_4049.jpg)
+![Math and FBD](https://github.com/Cornell-MAE-UG/sp26-portfolio-aj688-jpg/blob/main/assets/images/FBD_MATH.jpg)
 
 Doing the math, with the max deflection being (0.02) * 7 inches, at x = 2 inches, we end up with: 
 
@@ -51,6 +51,11 @@ Doing the math, with the max deflection being (0.02) * 7 inches, at x = 2 inches
 that would make a suitable beam design; my hand can comfortable grip a circular rod of cross section A = pi * (0.5in)^2 = 506 mm^2, leading to 
 
 I = 2.0 x 10^4 mm^4. Then, solving for E, we get around 177 Mpa. This is incredibly small, and likely due to the vast oversimplifications that were made when doing this problem. Materials that fit this value could be some woods or plastics. 
+
+Here is the final drawing:
+
+![Final Drawing](https://github.com/Cornell-MAE-UG/sp26-portfolio-aj688-jpg/blob/main/assets/images/FINAL.jpg)
+
 
 
 
